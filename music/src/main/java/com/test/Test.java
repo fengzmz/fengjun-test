@@ -66,6 +66,8 @@ public class Test {
             //创建一个缓冲流
             BufferedInputStream bufferedInputStream = new BufferedInputStream(fileInputStream);
 
+
+
             //创建播放器对象，把文件的缓冲流传入进去
             player = new Player(bufferedInputStream);
 
