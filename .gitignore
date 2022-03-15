@@ -1,0 +1,13 @@
+*~
+.DS_Store
+.idea/
+*.iml
+log/
+target/
+.gitignore
+.project
+.settings/
+.classpath
+.factorypath
+*Api.md
+ErrorCodeList.md
