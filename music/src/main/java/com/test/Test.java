@@ -70,6 +70,7 @@ public class Test {
             player = new Player(bufferedInputStream);
 
 
+
             //调用播放方法进行播放
             player.play();
 
